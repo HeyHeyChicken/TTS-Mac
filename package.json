@@ -1,0 +1,25 @@
+{
+  "name": "nova-tts-mac",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <a href=\"//nova-assistant.com\" rel=\"nofollow\"> <img src=\"https://github.com/HeyHeyChicken/NOVA-TTS-Mac/blob/master/resources/nova-logo.svg\" alt=\"NOVA\" width=\"300\"> </a>",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-cmd": "^4.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyHeyChicken/NOVA-TTS-Mac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyHeyChicken/NOVA-TTS-Mac/issues"
+  },
+  "homepage": "https://github.com/HeyHeyChicken/NOVA-TTS-Mac#readme"
+}
