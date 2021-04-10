@@ -17,7 +17,7 @@ This skill will allow your assistant to answer you (no connection needed) with t
 
 ## Features
 
-This skill will allow your assistant to answer you (no connection needed) with the Mac's Siri voice.
+This skill will allow your assistant to answer you (no connection needed) with the Mac's Siri voice.<br/>
 /!\ You need to have your server installed on a Mac.
 
 ## Support and contribution
