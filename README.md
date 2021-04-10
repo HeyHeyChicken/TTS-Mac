@@ -1,6 +1,6 @@
 <div align="center">
 <a href="//nova-assistant.com" rel="nofollow">
-<img src="https://github.com/HeyHeyChicken/NOVA-HomePod-Sounds/blob/master/resources/nova-logo.svg" alt="NOVA" width="300">
+<img src="https://github.com/HeyHeyChicken/NOVA-TTS-Mac/blob/master/resources/nova-logo.svg" alt="NOVA" width="300">
 </a>
 
 **NOVA - TTS - Mac** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
