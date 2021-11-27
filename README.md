@@ -1,7 +1,5 @@
 <div align="center">
-<a href="//nova-assistant.com" rel="nofollow">
-<img src="https://github.com/HeyHeyChicken/NOVA-TTS-Mac/blob/master/resources/github-logo.png" alt="NOVA" width="300">
-</a>
+<img src="https://github.com/HeyHeyChicken/NOVA/blob/master/resources/github-logo.svg" alt="NOVA" width="300">
 
 **NOVA - TTS - Mac** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
 This skill will allow your assistant to answer you (no connection needed) with the Mac's Siri voice.
