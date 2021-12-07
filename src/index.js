@@ -11,7 +11,7 @@ class Random extends LIBRARIES.Skill{
     constructor(_main, _settings) {
         super(_main, _settings);
 
-        this.RootPath = _main.DirName + "/lib/skills/HeyHeyChicken_TTS-Mac/src/";
+        this.RootPath = LIBRARIES.Path.join(_main.DirName, "lib", "skills", "356537719");
 
         const SELF = this;
 
