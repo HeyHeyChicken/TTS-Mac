@@ -25,7 +25,7 @@ class Random extends LIBRARIES.Skill{
                     COMMAND,
                     function(err, data, stderr){
                         // On convertis le fichier AIFF en MP3
-                        const FFMPEG_ABSOLUTE_PATH = LIBRARIES.Path.resolve(SELF.RootPath + "ffmpeg");
+                        const FFMPEG_ABSOLUTE_PATH = LIBRARIES.Path.resolve(SELF.RootPath + "/ffmpeg");
                         const CONVERT_COMMAND = FFMPEG_ABSOLUTE_PATH + " -i " + ABSOLUTE_PATH + ".aiff -f mp3 -acodec libmp3lame -ab 192000 -ar 44100 " + ABSOLUTE_PATH + ".mp3";
                         LIBRARIES.NodeCMD.get(
                             CONVERT_COMMAND,
