@@ -1,0 +1,14 @@
+{
+	"worksOffline" : true,
+	"description" : {
+		"fr-FR": "Cette compétence permettra à votre assistant de vous répondre vocalement avec la voix Siri du Mac.<br/><br/><i class=\"fas fa-exclamation-triangle\"></i> Votre serveur doit être installé sur un Mac.",
+		"en-US": "This skill will allow your assistant to answer you vocally with the Mac's Siri voice.<br/><br/><i class=\"fas fa-exclamation-triangle\"></i> Your server need to be installed on a Mac."
+	},
+	"language": [
+		"fr-FR",
+		"en-US",
+		"es-ES",
+		"it-IT",
+		"de-DE"
+	]
+}
